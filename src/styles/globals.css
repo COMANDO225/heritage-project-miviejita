@@ -1,0 +1,50 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato:wght@300;400;700;900&display=swap');
+
+:root {
+    --nextui-colors-primary: #f50014;
+}
+
+
+.nextui-c-csEDlc{
+    /* position: fixed;
+    top: 56px;
+    height: calc(100% - 56px);
+    overflow: hidden !important; */
+    /* display: flex; */
+    height: calc(100vh - 56px);
+    margin-top: 56px;
+}
+
+/* .nextui-c-grJsex {
+    position: absolute;
+    top: 70px;
+    left: 50%;
+    transform: translateX(-50%);
+    display: inline-block;
+    z-index: var(--nextui-zIndices-max);
+    outline: none;
+    width: 100%;
+    margin: 0;
+    vertical-align: middle;
+} */
+
+.nextui-c-iDzHRq::-webkit-scrollbar {
+    display: none;
+}
+
+.nextui-c-csEDlc-iwsVYJ-fullScreen-true .nextui-c-dTfjaK {
+    display: block;
+    height: calc(100vh - 56px);
+    top: 56px;
+}
+
+.nextui-c-STltJ {
+    padding: 0;
+}
+
+.nextui-c-csEDlc-iwsVYJ-fullScreen-true .nextui-c-grJsex {
+    width: 100vw;
+    max-width: 100vw;
+    height: auto;
+    margin: 0px;
+}
